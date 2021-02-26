@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  app:
+    container_name: estrategiati
+    image: php_apache_img
+    build:
+      context: ./
+    volumes:
+      - ./src:/var/www/html/
+    ports:
+      - 7777:80
+    environment: 
+      - PORT=80
+    
+    
+
+  
+

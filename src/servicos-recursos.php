@@ -50,7 +50,7 @@ include_once 'header.inc.php';
 
       <p>Entregaremos o recurso com, no m&iacute;nimo, 4 horas de anteced&ecirc;ncia em rela&ccedil;&atilde;o ao prazo final. Dito isso, o ideal &eacute; que o candidato manifeste interesse em elaborar recurso o quanto antes (assim que ele perceber que foi injusti&ccedil;ado), pois isso nos dar&aacute; mais tempo para a melhora elabora&ccedil;&atilde;o poss&iacute;vel de texto recursal.</p>
 
-      <p class="font-weight-bold">Caso deseje elaborar um recurso conosco, envie um email para <a href="mailto:contato.estrategiaconcursosti@gmail.com?subject=Recurso%20Administrativo&body=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20%3CINSERIR%20NOME%20AQUI%3E%20e%20tenho%20interesse%20em%20elaborar%20um%20recurso%20administrativo%20da%20prova%20%3CPROVA%3E.%20Seguem%20os%20detalhes%3A%20%3CINSERIR%20DETALHES%3E%0D%0A%0D%0AAtenciosamente">contato.estrategiaconcursosti@gmail.com</a> informando seu interesse e nós daremos retorno e iniciaremos o trabalho.</p>
+      <p class="font-weight-bold">Caso deseje elaborar um recurso conosco, envie um email para <a href="mailto:equipecanetapreta@gmail.com?subject=Recurso%20Administrativo&body=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20%3CINSERIR%20NOME%20AQUI%3E%20e%20tenho%20interesse%20em%20elaborar%20um%20recurso%20administrativo%20da%20prova%20%3CPROVA%3E.%20Seguem%20os%20detalhes%3A%20%3CINSERIR%20DETALHES%3E%0D%0A%0D%0AAtenciosamente">equipecanetapreta@gmail.com</a> informando seu interesse e nós daremos retorno e iniciaremos o trabalho.</p>
     </div>
   </section>
 

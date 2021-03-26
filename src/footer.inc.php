@@ -6,11 +6,11 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>Estratégia TI</h3>
+        <h3>Equipe<br> Caneta Preta</h3>
         <p>
           Em parceria com <br>
           Estratégia Concursos<br>                    
-          <strong>Email:<br></strong> contato.<br>estrategiaconcursosti@gmail.com<br>
+          <strong>Email:<br></strong>equipecanetapreta@gmail.com<br>
         </p>
       </div>
 
@@ -22,7 +22,7 @@
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#cursos">Cursos</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#servicos">Serviços</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="materiais.php">Materiais</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a target=_blank href="https://estrategiati.freeforums.net">Forum</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a target=_blank href="https://canetapreta.freeforums.net">Forum</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#contato">Contato</a></li>
         </ul>
       </div>
@@ -38,7 +38,7 @@
 
       <script>
         grecaptcha.ready(function() {
-          grecaptcha.execute('6LevWmcaAAAAAPNX6vXXo9u2Y4Go_qyZJzdhXm2y', {
+          grecaptcha.execute('6LeQro8aAAAAAPSVQ5dx5-jL1thWs_S0VdKJxdm9', {
             action: 'newsletter'
           }).then(function(token) {
             var recaptchaResponse = document.getElementById('recaptchaResponse_newsletter');
@@ -65,13 +65,13 @@
   <div class="copyright-wrap d-md-flex py-4">
     <div class="mr-md-auto text-center text-md-left">
       <div class="copyright">
-        &copy; Copyright <strong><span>Estratégia Concursos TI</span></strong>. Todos os Direitos Reservados
+        &copy; Copyright <strong><span>Canetas Pretas</span></strong>. Todos os Direitos Reservados
       </div>
 
     </div>
     <div class="social-links text-center text-md-right pt-3 pt-md-0">            
-      <a href="http://instagram.com/estrategiaconcursosti" class="instagram"><i class="bx bxl-instagram"></i></a>      
-      <a href="t.me/estrategia_ti" class="telegram"><i class="bx bxl-telegram"></i></a>
+      <a href="https://www.instagram.com/oscanetaspretas/" class="instagram"><i class="bx bxl-instagram"></i></a>      
+      <a href="http://t.me/canetaspretas" class="telegram"><i class="bx bxl-telegram"></i></a>
       <a href="http://anchor.fm/estrategia-tech" class="podcast"><i class="bx bx-broadcast"></i></a>
     </div>
   </div>

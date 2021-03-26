@@ -13,7 +13,7 @@ include_once 'header.inc.php';
   </div>
     <div class="row justify-content-center">
       <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-        <h1>Estratégia Concursos TI</h1>
+        <h1>Equipe <br>Caneta Preta</h1>
         <h2>A sua aprovação passa por aqui</h2>
       </div>
       <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img">
@@ -44,10 +44,11 @@ include_once 'header.inc.php';
             <li><i class="icofont-check-circled"></i> Servidores Federais (auditores, analistas, peritos)</li>
             <li><i class="icofont-check-circled"></i> Mais de 15 anos de experiência no mercado de concursos públicos </li>
             <li><i class="icofont-check-circled"></i> Aulas exclusivas e 100% focadas em cada edital</li>
-            <li><i class="icofont-check-circled"></i> Siga-nos no <a href="http://instagram.com/estrategiaconcursosti" target=_blank>Instagram</a> e no <a href="https://t.me/estrategia_ti" target=_blank>Telegram</a> </li>
+            <li><i class="icofont-check-circled"></i> Siga-nos no <a href="https://www.instagram.com/oscanetaspretas/" target=_blank>Instagram</a> e no <a href="http://t.me/canetaspretas" target=_blank>Telegram</a> </li>
+            <li><i class="icofont-check-circled"></i> * Em parceria com o Estratégia Concursos</li>
 
           </ul>
-          <a href="https://www.estrategiaconcursos.com.br/cursosPorConcurso/cursos-regulares/" target=_blank class="read-more">Assine Já<i class="icofont-long-arrow-right"></i></a>
+          <a href="https://www.estrategiaconcursos.com.br/cursosPorConcurso/cursos-regulares/" target=_blank class="read-more">Assine Já *<i class="icofont-long-arrow-right"></i></a>
         </div>
       </div>
 
@@ -264,30 +265,30 @@ include_once 'header.inc.php';
         <div class="col-lg-6">
           <div class="info-box mb-4">
             <i class="bx bx-envelope"></i>
-            <a class="follow-header" href="mailto:contato.estrategiaconcursosti@gmail.com">
+            <a class="follow-header" href="mailto:equipecanetapreta@gmail.com">
               <h3>E-Mail</h3>
             </a>
-            <p>contato.estrategiaconcursosti@gmail.com</p>
+            <p>equipecanetapreta@gmail.com</p>
           </div>
         </div>
 
         <div class="col-lg-3 col-md-6">
           <div class="info-box  mb-4">
             <i class="bx bxl-telegram"></i>
-            <a href="t.me/estrategiaconcursosti" target=_blank class="follow-header">
+            <a href="t.me/canetaspretas" target=_blank class="follow-header">
               <h3>Telegram</h3>
             </a>
-            <p>t.me/estrategiaconcursosti</p>
+            <p>t.me/canetaspretas</p>
           </div>
         </div>
 
         <div class="col-lg-3 col-md-6">
           <div class="info-box  mb-4">
             <i class="bx bxl-instagram"></i>
-            <a href="https://www.instagram.com/estrategiaconcursosti" target=_blank class="follow-header">
+            <a href="https://www.instagram.com/oscanetaspretas/" target=_blank class="follow-header">
               <h3>Instagram</h3>
             </a>
-            <p>@estrategiaconcursosti</p>
+            <p>@oscanetaspretas</p>
           </div>
         </div>
 
@@ -295,10 +296,10 @@ include_once 'header.inc.php';
 
 
       <!-- Recaptcha -->
-      <script src="https://www.google.com/recaptcha/api.js?render=6LevWmcaAAAAAPNX6vXXo9u2Y4Go_qyZJzdhXm2y"></script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LeQro8aAAAAAPSVQ5dx5-jL1thWs_S0VdKJxdm9"></script>
       <script>
         grecaptcha.ready(function() {
-          grecaptcha.execute('6LevWmcaAAAAAPNX6vXXo9u2Y4Go_qyZJzdhXm2y', {
+          grecaptcha.execute('6LeQro8aAAAAAPSVQ5dx5-jL1thWs_S0VdKJxdm9', {
             action: 'contato'
           }).then(function(token) {
             var recaptchaResponse = document.getElementById('recaptchaResponse');

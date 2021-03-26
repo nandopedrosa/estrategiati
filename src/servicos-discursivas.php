@@ -33,7 +33,7 @@ include_once 'header.inc.php';
       </ul>
       </p>
 
-      <p class="font-weight-bold">Caso tenha interesse em adquirir um ou mais pacotes, envie um email para <a href="mailto:contato.estrategiaconcursosti@gmail.com">contato.estrategiaconcursosti@gmail.com   </a> informando qual material você deseja e daremos retorno sobre valores e próximos passos.</p>
+      <p class="font-weight-bold">Caso tenha interesse em adquirir um ou mais pacotes, envie um email para <a href="mailto:equipecanetapreta@gmail.com">equipecanetapreta@gmail.com   </a> informando qual material você deseja e daremos retorno sobre valores e próximos passos.</p>
 
       <p>Veja os pacotes que podem ser adquiridos atualmente:</p>
 
@@ -49,7 +49,7 @@ include_once 'header.inc.php';
                 <li>Arquitetura de Software</li>
                 <li>Testes de Software</li>
               </ul>
-              <a href="mailto:contato.estrategiaconcursosti@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%231%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%231%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>
+              <a href="mailto:equipecanetapreta@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%231%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%231%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>
             </div>
           </div>
         </div>
@@ -64,7 +64,7 @@ include_once 'header.inc.php';
                 <li>Métodos Ágeis</li>
                 <li>SOA e Web Services</li>
               </ul>
-              <a href="mailto:contato.estrategiaconcursosti@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%232%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%232%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>
+              <a href="mailto:equipecanetapreta@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%232%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Engenharia%20de%20Software%20%232%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@ include_once 'header.inc.php';
                 <li>PMBOK 6a edição (x3)</li>                
               </ul>
               <p class="font-italic font-weight-light">obs: este pacote possui 3 discursivas diferentes sobre PMBOK</p>
-              <a href="mailto:contato.estrategiaconcursosti@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Governan%C3%A7a%20de%20TI%20%231%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Governan%C3%A7a%20de%20TI%20%231%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>              
+              <a href="mailto:equipecanetapreta@gmail.com?subject=Quero%20o%20pacote%20de%20discursivas%20%22Governan%C3%A7a%20de%20TI%20%231%22&body=Ol%C3%A1%20%2C%20tudo%20bem%3F%20Meu%20nome%20%C3%A9%20%3CCOLOQUE%20SEU%20NOME%20AQUI%3E%20e%20gostaria%20de%20adquirir%20o%20pacote%20de%20discursivas%20%22Governan%C3%A7a%20de%20TI%20%231%22.%0D%0A%0D%0AComo%20devo%20proceder%3F%0D%0A%0D%0AAtenciosamente" class="btn btn-primary">Eu Quero!</a>              
             </div>
           </div>
         </div>

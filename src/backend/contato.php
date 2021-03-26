@@ -3,7 +3,7 @@
 if(isset($_POST["enviarmsg"]) && isset($_POST['recaptcha_response'])) {        
     #Checagem do recaptcha
     $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-    $recaptcha_secret = '6LevWmcaAAAAAOBWbCw-t6hTU5JvSgBQoADoueUb';
+    $recaptcha_secret = '6LeQro8aAAAAAE0CQgca2tfqE-xTHu4TqWJGLVye';
     $recaptcha_response = $_POST['recaptcha_response'];
 
     // Make and decode POST request:
@@ -39,7 +39,7 @@ if(isset($_POST["enviarmsg"]) && isset($_POST['recaptcha_response'])) {
     $mail->Host = 'smtp.gmail.com';
     $mail->Port = '465';
     $mail->isHTML();    
-    $mail->Username = 'contato.estrategiaconcursosti@gmail.com';
+    $mail->Username = 'equipecanetapreta@gmail.com';
     $senha = $_SERVER['SECRET_KEY'];
     $mail->Password = $senha;
         
@@ -47,7 +47,7 @@ if(isset($_POST["enviarmsg"]) && isset($_POST['recaptcha_response'])) {
     $mail->setFrom($email, $nome);
     $mail->Subject = $assunto;
     $mail->Body = $mensagem;
-    $mail->addAddress('contato.estrategiaconcursosti@gmail.com'); #recipiente
+    $mail->addAddress('equipecanetapreta@gmail.com'); #recipiente
 
     $mail->send();    
 

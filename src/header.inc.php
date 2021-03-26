@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Estratégia Concursos TI</title>
-  <meta content="" name="Estratégia Concursos é referência na preparação de alunos para Concursos Públicos. Estude com nossos Cursos Online para Concursos, 100% focados no Edital e Tire dúvidas com os melhores professores do Brasil. Milhares de Aprovados!">
-  <meta content="" name="cursos online para concursos publicos, curso preparatório para concurso publico, questoes de concurso, provas de concurso, estrategia concursos">
+  <title>Canetas Pretas</title>
+  <meta content="" name="A Equipe Caneta Preta é referência na preparação de alunos para Concursos Públicos e treinamento profissional. Estude com nossos Cursos Online para Concursos, 100% focados no Edital e Tire dúvidas com os melhores professores do Brasil. Milhares de Aprovados!">
+  <meta content="" name="cursos online para concursos publicos, curso preparatório para concurso publico, questoes de concurso, provas de concurso, caneta preta concursos">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon-coruja.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/caneta-preta-favicon.jpeg" rel="icon">
+  <link href="assets/img/caneta-preta-touch.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -54,7 +54,7 @@
               <li><a href="index.php#equipe">Equipe</a></li>
               </li>
               <li><a href="materiais.php">Materiais</a></li>
-              <li><a target=_blank href="https://estrategiati.freeforums.net">Fórum</a></li>              
+              <li><a target=_blank href="https://canetapreta.freeforums.net">Fórum</a></li>              
               <li><a href="index.php#contato">Contato</a></li>
 
             </ul>

@@ -26,7 +26,7 @@
         $serverName = "localhost";
         $userName = "root";
         $password = getenv('SECRET_KEY');
-        $database = "estrategiaconcursosti";
+        $database = "canetapreta";
         $port = "3306";
     }
 

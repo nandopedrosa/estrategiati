@@ -3,7 +3,7 @@
 if (isset($_POST["addtonewsletter"]) && isset($_POST['recaptcha_response'])) {
     #Checagem do recaptcha
     $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-    $recaptcha_secret = '6LevWmcaAAAAAOBWbCw-t6hTU5JvSgBQoADoueUb';
+    $recaptcha_secret = '6LeQro8aAAAAAE0CQgca2tfqE-xTHu4TqWJGLVye';
     $recaptcha_response = $_POST['recaptcha_response'];
 
     // Make and decode POST request:

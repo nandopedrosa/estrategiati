@@ -49,7 +49,7 @@
                 <ul>
                   <li><a href="servicos-discursivas.php">Discursivas</a></li>                 
                   <li><a href="servicos-recursos.php">Recursos</a></li>
-                  <li><a href="servicos-coaching.php">Coaching e Mentoria</a></li>                  
+                                 
                 </ul>
               <li><a href="index.php#equipe">Equipe</a></li>
               </li>

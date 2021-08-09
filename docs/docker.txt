@@ -1,0 +1,5 @@
+Para buildar o container: docker-compose up --build
+
+Para empurrar o container para o heroku: heroku container:push web
+
+Para publicar: heroku container:release web

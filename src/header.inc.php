@@ -54,6 +54,7 @@
               <li><a href="index.php#equipe">Equipe</a></li>
               </li>
               <li><a href="materiais.php">Materiais</a></li>
+              <li><a href="https://gamesdeti.herokuapp.com/">Games <i class='bx bx-message-alt-error'></i></a></li>
               <li><a target=_blank href="https://canetapreta.freeforums.net">Fórum</a></li>              
               <li><a href="index.php#contato">Contato</a></li>
 

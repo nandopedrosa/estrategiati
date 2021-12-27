@@ -265,10 +265,10 @@ include_once 'header.inc.php';
         <div class="col-lg-6">
           <div class="info-box mb-4">
             <i class="bx bx-envelope"></i>
-            <a class="follow-header" href="mailto:equipecanetapreta@gmail.com">
+            <a class="follow-header" href="mailto:oscanetaspretas@gmail.com">
               <h3>E-Mail</h3>
             </a>
-            <p>equipecanetapreta@gmail.com</p>
+            <p>oscanetaspretas@gmail.com</p>
           </div>
         </div>
 

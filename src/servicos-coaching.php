@@ -32,7 +32,7 @@ include_once 'header.inc.php';
 
       <p>4. Acompanhamento e monitoramento. A evolu&ccedil;&atilde;o do aluno &eacute; constantemente monitorada atrav&eacute;s de planilhas, hist&oacute;ricos e m&eacute;dias de aproveitamento. Quaisquer desvios ou falhas de desempenho s&atilde;o rapidamente identificados e melhorados continuamente.</p>
 
-      <p class="font-weight-bold">Caso deseje se tornar nosso <span class="font-italic">coachee</span>, envie um email para <a href="mailto:equipecanetapreta@gmail.com?subject=Tenho%20interesse%20no%20servi%C3%A7o%20de%20Coaching%2FMentoria&body=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20%3CINSIRA%20SEU%20NOME%20AQUI%3E%20e%20tenho%20interesse%20no%20servi%C3%A7o%20de%20coaching%20e%20mentoria.%20Podemos%20conversar%20%3F%0D%0A%0D%0AAtenciosamente">equipecanetapreta@gmail.com </a> informando seu interesse e nós daremos retorno sobre valores, exemplos e próximos passos.</p>
+      <p class="font-weight-bold">Caso deseje se tornar nosso <span class="font-italic">coachee</span>, envie um email para <a href="mailto:oscanetaspretas@gmail.com?subject=Tenho%20interesse%20no%20servi%C3%A7o%20de%20Coaching%2FMentoria&body=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20%3CINSIRA%20SEU%20NOME%20AQUI%3E%20e%20tenho%20interesse%20no%20servi%C3%A7o%20de%20coaching%20e%20mentoria.%20Podemos%20conversar%20%3F%0D%0A%0D%0AAtenciosamente">oscanetaspretas@gmail.com </a> informando seu interesse e nós daremos retorno sobre valores, exemplos e próximos passos.</p>
     </div>
   </section>
 

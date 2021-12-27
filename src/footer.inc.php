@@ -10,7 +10,7 @@
         <p>
           Em parceria com <br>
           Estratégia Concursos<br>                    
-          <strong>Email:<br></strong>equipecanetapreta@gmail.com<br>
+          <strong>Email:<br></strong>oscanetaspretas@gmail.com<br>
         </p>
       </div>
 

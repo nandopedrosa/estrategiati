@@ -39,7 +39,7 @@ if(isset($_POST["enviarmsg"]) && isset($_POST['recaptcha_response'])) {
     $mail->Host = 'smtp.gmail.com';
     $mail->Port = '465';
     $mail->isHTML();    
-    $mail->Username = 'equipecanetapreta@gmail.com';
+    $mail->Username = 'oscanetaspretas@gmail.com';
     $senha = $_SERVER['SECRET_KEY'];
     $mail->Password = $senha;
         
@@ -47,7 +47,7 @@ if(isset($_POST["enviarmsg"]) && isset($_POST['recaptcha_response'])) {
     $mail->setFrom($email, $nome);
     $mail->Subject = $assunto;
     $mail->Body = $mensagem;
-    $mail->addAddress('equipecanetapreta@gmail.com'); #recipiente
+    $mail->addAddress('oscanetaspretas@gmail.com'); #recipiente
 
     $mail->send();    
 

@@ -19,22 +19,14 @@
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#quemsomos">Quem Somos</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.php#equipe">Quem Somos</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#cursos">Cursos</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#servicos">Serviços</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="materiais.php">Materiais</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a target=_blank href="https://canetapreta.freeforums.net">Forum</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="materiais.php">Materiais</a></li>          
           <li><i class="bx bx-chevron-right"></i> <a href="index.php#contato">Contato</a></li>
         </ul>
       </div>
-
-      <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Nossos Serviços</h4>
-        <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="discursivas.php">Discursivas</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="recursos.php">Recursos</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="coaching.php">Coaching e Mentoria</a></li>          
-        </ul>
-      </div>
+     
 
       <script>
         grecaptcha.ready(function() {
@@ -70,8 +62,8 @@
 
     </div>
     <div class="social-links text-center text-md-right pt-3 pt-md-0">            
-      <a href="https://www.instagram.com/oscanetaspretas/" class="instagram"><i class="bx bxl-instagram"></i></a>      
-      <a href="http://t.me/canetaspretas" class="telegram"><i class="bx bxl-telegram"></i></a>
+      <a href="https://www.instagram.com/canetas.pretas/" class="instagram"><i class="bx bxl-instagram"></i></a>      
+      <a href="https://t.me/canetaspretaschat" class="telegram"><i class="bx bxl-telegram"></i></a>
       <a href="http://anchor.fm/estrategia-tech" class="podcast"><i class="bx bx-broadcast"></i></a>
     </div>
   </div>

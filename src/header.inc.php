@@ -44,20 +44,18 @@
             <ul>
               <li style="padding-left: 5px" class="active"><a href="index.php">Home</a></li>
               <li><a href="index.php#quemsomos">Quem Somos</a></li>
+              <li><a href="index.php#equipe">Equipe</a></li>
               <li><a href="index.php#cursos">Cursos</a></li>
               <li class="drop-down"><a href="index.php#servicos">Serviços</a>
-                <ul>
-                  <li><a href="servicos-discursivas.php">Discursivas</a></li>                 
-                  <li><a href="servicos-recursos.php">Recursos</a></li>
-                                   
+                <ul>                                
+                  <li><a href="servicos-recursos.php">Recursos</a></li>                                   
                 </ul>
-              <li><a href="index.php#equipe">Equipe</a></li>
+              
               </li>
               <li><a href="materiais.php">Materiais</a></li>
-              <li><a href="https://gamesdeti.herokuapp.com/">Games <i class='bx bx-message-alt-error'></i></a></li>
-              <li><a target=_blank href="https://canetapreta.freeforums.net">Fórum</a></li>              
+              <li><a href="simulados.php">Simulados <i class='bx bx-message-alt-error'></i></a></li> 
+              <li><a href="https://gamesdeti.herokuapp.com/">Games <i class='bx bx-message-alt-error'></i></a></li>                        
               <li><a href="index.php#contato">Contato</a></li>
-
             </ul>
           </nav><!-- .nav-menu -->
 

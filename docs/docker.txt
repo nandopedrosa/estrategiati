@@ -1,5 +1,7 @@
 Para buildar o container: docker-compose up --build
 
+Primeiro tem que logar no Heroku Container -> heroku container:login
+
 Para empurrar o container para o heroku: heroku container:push web
 
 Para publicar: heroku container:release web

@@ -28,9 +28,19 @@
             <h1>TJDFT</h1>
             <h1 class="mb-3"> Canetas Pretas</h1>
             <h3 class="mb-5">Revisões, Simulados, Discursivas e Grupo Exclusivo.</h3>
-            <a class="btn btn-primary btn-xl" href="">Baixe aqui a descrição completa do produto!</a>
+            <div>
+                <form action="../../backend/hotsite.php" method="post">
+                    <input type="hidden" name="produto" value="tjdft2022">
+                    <div class="col-md-6 offset-md-3">
+                        <input placeholder="Email" type="email" name="email" class="form-control mb-3" id="email" required>
+                    </div>
+                    <button class="btn btn-primary btn-xl" id="baixar-book">Informe seu email e acesse a descrição completa do produto!</button>                    
+                </form>
+                <h6 class="mt-3 text-muted">Não divulgamos nem compartilhamos seu email com terceiros.</h6>                
+            </div>
         </div>
     </header>
+
     <!-- About-->
     <section class="content-section bg-light" id="about">
         <div class="container px-4 px-lg-5 text-center">
@@ -89,7 +99,7 @@
                 aprovado
                 conosco!
             </h2>
-            <a class="btn btn-primary btn-xl" href="">Adquirir agora!</a>
+            <a class="btn btn-primary btn-xl" href="https://www.hotmart.com/product/projeto-tjdft-canetas-pretas-tecnologia-da-informacao/E65900230X">Adquirir agora!</a>
         </div>
     </section>
     <!-- Portfolio-->
@@ -99,9 +109,9 @@
                 <h3 class="text-secondary mb-0">Nossos alunos</h3>
                 <h2 class="mb-5">Depoimentos</h2>
             </div>
-            <div class="row">                
-                    <iframe width="420" height="315" src="https://www.youtube.com/embed/GTW6oufYvAw">
-                    </iframe>
+            <div class="row">
+                <iframe width="420" height="315" src="https://www.youtube.com/embed/GTW6oufYvAw">
+                </iframe>
             </div>
 
         </div>

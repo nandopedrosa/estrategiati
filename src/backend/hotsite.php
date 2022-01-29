@@ -15,7 +15,7 @@
     mysqli_stmt_execute($statement);
     mysqli_stmt_close($statement);
     
-    header("location: https://drive.google.com/uc?export=download&id=1YCQ96sD9a2GOX9EcX84fgwri0BBeH6IJ");
+    header("location: https://drive.google.com/uc?export=download&id=1uXMH9OAwd1rlW8DvX1G5qyAEyVbC7l9x");
 
      exit();
     

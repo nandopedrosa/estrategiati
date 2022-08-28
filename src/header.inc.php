@@ -54,7 +54,7 @@
               </li>
               <li><a href="materiais.php">Materiais</a></li>
               <li><a href="simulados.php">Simulados <i class='bx bx-message-alt-error'></i></a></li> 
-              <li><a href="https://gamesdeti.herokuapp.com/">Games <i class='bx bx-message-alt-error'></i></a></li>                        
+              <li><a href="https://gamesdeti.alwaysdata.net">Games <i class='bx bx-message-alt-error'></i></a></li>                        
               <li><a href="index.php#contato">Contato</a></li>
             </ul>
           </nav><!-- .nav-menu -->

@@ -47,14 +47,15 @@
               <li><a href="index.php#equipe">Equipe</a></li>
               <li><a href="index.php#cursos">Cursos</a></li>
               <li class="drop-down"><a href="index.php#servicos">Serviços</a>
-                <ul>                                
-                  <li><a href="servicos-recursos.php">Recursos</a></li>                                   
+                <ul>
+                  <li><a href="servicos-recursos.php">Recursos</a></li>
                 </ul>
-              
+
               </li>
               <li><a href="materiais.php">Materiais</a></li>
-              <li><a href="simulados.php">Simulados <i class='bx bx-message-alt-error'></i></a></li> 
-              <li><a href="https://gamesdeti.alwaysdata.net">Games <i class='bx bx-message-alt-error'></i></a></li>                        
+              <li><a href="https://gamesdeti.alwaysdata.net">Games <i class='bx bx-message-alt-error'></i></a></li>
+              <li><a href="https://roadmap-ti.onrender.com/">Roadmap <i class='bx bx-message-alt-error'></i></a></li>
+
               <li><a href="index.php#contato">Contato</a></li>
             </ul>
           </nav><!-- .nav-menu -->
